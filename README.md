@@ -17,7 +17,7 @@ The information that should be contained in the database are:
 where, (G+C)% is calculated as:
   (G+C)% = (Count_G +  Count_C) / (Count_A + Count_T+ Count_G+ Count_C)*100
   
-  #SCREENSHOTS OF THE OUTPUT
+  # SCREENSHOTS OF THE OUTPUT
   
   1.TKINTER GUI
   
