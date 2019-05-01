@@ -15,7 +15,7 @@
 </br>The information that should be contained in the database are:
         Sl_No, Gene Information, Gene sequence, Count_A, Count_T, Count_G, Count_C, length, (G+C)%.
 where, (G+C)% is calculated as:
-  (G+C)% = (Count_G +  Count_C) / (Count_A + Count_T+ Count_G+ Count_C)*100
+  </br>(G+C)% = (Count_G +  Count_C) / (Count_A + Count_T+ Count_G+ Count_C)*100
   
   # SCREENSHOTS OF THE OUTPUT
   
