@@ -21,6 +21,7 @@ where, (G+C)% is calculated as:
   
   1.TKINTER GUI
   
-  
+  ![Screenshot (2708)](https://user-images.githubusercontent.com/40006730/57037117-f50fc100-6c73-11e9-8564-d8bcfb673a04.png)
   2.CONTENT OF THE DATABASE
 
+![records](https://user-images.githubusercontent.com/40006730/57037119-f6d98480-6c73-11e9-9800-ebb2dbe26c30.png)
